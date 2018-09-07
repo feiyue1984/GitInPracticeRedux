@@ -3,3 +3,5 @@ this is a new line
 the purpose is to illustrate git fetch
 modification made in branch chapter-two
 1 + 1 = 2
+EXTRA
+Here we are.
